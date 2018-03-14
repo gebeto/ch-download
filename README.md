@@ -3,7 +3,7 @@
 # How to install:
 
 ```sh
-npm install -g https://github.com/alekseylovchikov/ch-download
+npm install -g coursehunters-cli
 ```
 
 # How to use:
